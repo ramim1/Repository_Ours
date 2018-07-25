@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+<addon provider-name="orloginRepo" version="1.0.0" name="orloginRepo" id="repository.orloginRepo">
+
+
+<extension name="orloginRepo" point="xbmc.addon.repository">
+
+<info compressed="false">http://cha1m.com/dark/orloginRepo/zips/addons.xml</info>
+
+<checksum>http://cha1m.com/dark/orloginRepo/zips/addons.xml.md5</checksum>
+
+<datadir zip="true">http://cha1m.com/dark/orloginRepo/zips/</datadir>
+
+</extension>
+
+
+<extension point="xbmc.addon.metadata">
+
+<summary>orloginRepo</summary>
+
+<description>orloginRepo</description>
+
+<platform>all</platform>
+
+</extension>
+
+</addon>
